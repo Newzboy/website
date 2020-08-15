@@ -14,8 +14,3 @@ export default function Home() {
             <h3>Hehe &rarr;</h3>
             <p>Click for a surprise.</p>
           </a>
-
-          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
