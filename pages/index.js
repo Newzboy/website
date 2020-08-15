@@ -14,3 +14,5 @@ export default function Home() {
             <h3>Hehe &rarr;</h3>
             <p>Click for a surprise.</p>
           </a>
+    )
+}
