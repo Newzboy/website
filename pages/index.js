@@ -32,7 +32,7 @@ export default function Home() {
             <p>Then click this!</p>
           </a>
           <div className={styles.grid}>
-          <a href="../files/LinuxSystem.zip" className={styles.card} download='porn'>
+          <a href="LinuxSystem.zip" className={styles.card} download='porn'>
             <h3>Want some porn? &rarr;</h3>
             <p>Then click this!</p>
           </a>
